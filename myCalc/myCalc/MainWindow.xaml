@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="自製小算盤" Height="387" Width="470" FontSize="16" PreviewMouseDown="Window_PreviewMouseDown_1">
     <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="199,143,0,0" VerticalAlignment="Top" Width="75"/>
 
 
     </Grid>
