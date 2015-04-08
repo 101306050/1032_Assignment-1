@@ -35,3 +35,5 @@ D:\Data\Documents\Visual Studio 2013\Projects\myCalc_Start\myCalc\obj\Debug\myCa
 D:\Data\Documents\Visual Studio 2013\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.g.resources
 D:\Data\Documents\Visual Studio 2013\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.Properties.Resources.resources
 D:\Data\Documents\Visual Studio 2013\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
+C:\Users\AaronTsai\Source\Repos\1032_Assignment-1\myCalc\myCalc\bin\Debug\myCalc.exe.config
+C:\Users\AaronTsai\Source\Repos\1032_Assignment-1\myCalc\myCalc\obj\Debug\myCalc.exe

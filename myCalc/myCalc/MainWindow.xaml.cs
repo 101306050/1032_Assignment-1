@@ -39,6 +39,7 @@ namespace myCalc
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("123");
         }
 
         //初始設定
